@@ -1,0 +1,1 @@
+const {reciepeModel} = require('../models/Reciepe')
